@@ -3,7 +3,7 @@
 
 **Alchemy Helper** is a Resource Pack that changes some languages in Minecraft to add potion effects information right next to names of each alchemy ingredient.
 
-It also adds aditional information to flowers, so you can easily craft your Suspicious Stews without looking at the Minecraft Gamepedia!
+**It also adds aditional information to flowers,** so you can easily craft your Suspicious Stews without looking at the Minecraft Gamepedia!
 
 **Currently Supported languages:**
 - English (CA)
