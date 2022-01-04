@@ -18,6 +18,8 @@
 - Spanish (MX)
 - Spanish (UY)
 - Spanish (VE)
+- Turkish (TR)
 
 **Credits:**
 - moxwel (Spanish language support)
+- SkadiSenpai (Turkish language support)
