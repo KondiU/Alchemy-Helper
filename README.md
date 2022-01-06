@@ -20,6 +20,10 @@
 - Spanish (VE)
 - Turkish (TR)
 
+
+For support & troubleshooting, join the UPROJECTS Discord server!
+https://discord.gg/rUXp25hfbe
+
 **Credits:**
 - moxwel (Spanish language support)
 - SkadiSenpai (Turkish language support)
