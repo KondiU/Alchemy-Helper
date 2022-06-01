@@ -24,6 +24,7 @@
 - Spanish (UY)
 - Spanish (VE)
 - Turkish (TR)
+- Vietnamese (VI)
 
 
 🌐 **For support & troubleshooting, join the UPROJECTS Discord server!**
@@ -33,3 +34,4 @@ https://discord.gg/rUXp25hfbe
 - moxwel (Spanish language support)
 - SkadiSenpai (Turkish language support)
 - Phobos7K (Russian language support) 
+- bl205vn (Vietnamese language support)
